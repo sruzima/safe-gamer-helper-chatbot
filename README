@@ -9,7 +9,6 @@ The chatbot’s role is to:
 
 ## Files
 
-- `safe_gamer_helper_system_prompt.md`  
   The full system prompt, including:
   - Role & limits of the assistant  
   - Greeting behavior  
