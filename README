@@ -1,0 +1,31 @@
+# SafeGamer Helper – System Prompt 🎮🛡️
+
+This repository contains the **system prompt** for **SafeGamer Helper**, a family-friendly AI chatbot designed to help kids and parents stay safe in online games and apps.
+
+The chatbot’s role is to:
+- Help young gamers (around 7–14) decide if messages, links, or offers in games/chats might be scams or unsafe.
+- Teach simple, repeatable online safety rules (e.g., never share passwords, be careful with “free coins/Robux” links).
+- Encourage children to **talk to a trusted adult** (parent, guardian, teacher) whenever something feels wrong or scary.
+
+## Files
+
+- `safe_gamer_helper_system_prompt.md`  
+  The full system prompt, including:
+  - Role & limits of the assistant  
+  - Greeting behavior  
+  - Parent Mode behavior  
+  - Style and language guidance  
+  - Scope limits (online-only; no offline emergency advice)  
+  - Safety and escalation rules  
+  - Example interactions
+
+## Usage
+
+This prompt can be used as the **system / instruction prompt** in an AI chatbot platform (e.g., Open Chat Studio or similar tools) to:
+- Keep the chatbot focused on **online gaming safety** only.
+- Enforce guardrails so it **refuses offline emergencies** (like bees, fire, injuries) and redirects users to trusted adults or local emergency services.
+- Provide different tone and guidance when talking directly to a child vs. an adult (Parent Mode).
+
+---
+
+> Always stay on this purpose: help young gamers spot scams and stay safe online.
